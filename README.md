@@ -6,7 +6,7 @@ A Dockerfile that installs the latest Moodle, Apache, PHP, MySQL and SSH
 ## Installation
 
 ```
-git clone https://github.com/sergiogomez/docker-moodle.git
+git clone https://github.com/crazyserver/docker-moodle.git
 cd docker-moodle
 docker build -t moodle .
 ```
